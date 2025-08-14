@@ -6,6 +6,14 @@ Saat ini saya sedang kuliah di prodi S1 Sistem Informasi Universitas Negeri Sura
 
 Saya adalah salah satu Peserta **Program Asah** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya mengikuti **Program Asah** karena saya sekarang semester 5 dan saya memilih untuk Studi Independen
+Saya mengikuti **Program Asah** karena saya sekarang semester 5 dan saya memilih untuk Studi Independen. <br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-fahril-syahputra/)ku ya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
